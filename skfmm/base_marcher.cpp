@@ -1,4 +1,4 @@
-//base_marcher.cpp
+//fast_marching.cpp
 
 // this file is a C++ implementation of the fast marching method. The
 // code in this file is independent of Python.

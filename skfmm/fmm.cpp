@@ -1,5 +1,5 @@
 // This file provides the interface between Python and the C++
-// implementation of the fast marching method in base_marcher.cpp
+// implementation of the fast marching method in fast_marching.cpp
 
 #include "Python.h"
 #include "numpy/noprefix.h"
